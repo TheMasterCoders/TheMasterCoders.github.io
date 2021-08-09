@@ -6,4 +6,3 @@ Here is a  GIF:
 ![This is cool ](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 And...
 A webpage!
-<button onclick="myfunction()">Press me</button> <script>function myfunction() { alert("Yes, this is a working button."); console.log("Hello! This person pressed the button!") }</script>
